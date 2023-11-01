@@ -51,6 +51,7 @@ body {
 }
 
 .card {
+  height: 47.7rem;
   border: 2px solid #323238;
   border-radius: .8rem;
   background-color: #202024;
